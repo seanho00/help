@@ -1,2 +1,4 @@
 # help.seanho.com
-Redirect help.seanho.com
+(and seanho.com/help)
+
+Redirect to TeamViewer
