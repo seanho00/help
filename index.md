@@ -1,3 +1,3 @@
 ---
-redirect_to: https://www.teamviewer.com/link/?url=505374&id=1719457562
+redirect_to: https://get.teamviewer.com/6arwq9p
 ---
