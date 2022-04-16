@@ -1,3 +1,3 @@
 ---
-redirect_to: https://get.teamviewer.com/6arwq9p
+redirect_to: https://get.teamviewer.com/68z9xsw
 ---
